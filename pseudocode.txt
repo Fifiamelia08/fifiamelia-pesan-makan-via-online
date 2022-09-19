@@ -1,0 +1,10 @@
+program order_makanan_via_online
+READ "menu makanan" WHIT STRING
+IF "memilih menu makanan"
+    PRINT "memasukkan nama resto atau makanan"
+ELSE 
+    PRINT "tutup aplikasi"
+WRITE "nama resto atau nama makanan" WHIT STRING
+READ "pembayaran" WHIT STRING
+DISPLAY "pesan makanan"
+END IF
