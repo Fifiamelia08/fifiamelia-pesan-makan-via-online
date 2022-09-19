@@ -5,3 +5,4 @@ IF "memilih menu makanan"
 ELSE 
     PRINT "tutup aplikasi"
 WRITE "nama resto atau nama makanan" WHIT STRING
+READ "pembayaran" WHIT STRING
