@@ -7,3 +7,4 @@ ELSE
 WRITE "nama resto atau nama makanan" WHIT STRING
 READ "pembayaran" WHIT STRING
 DISPLAY "pesan makanan"
+END IF
